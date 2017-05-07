@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1250px;
+  margin: 5px auto;
+  padding: 0 10px;
+}
+
+.Connect {
+  background: img(connect.jpg)
+}
+
+
+.header {
+  background-color: #2D2D2D
+}
+
+.nav li {
+  display: inline;
+}
+
+.btn-menu {
+  color: #878787;
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 10px;
+  text-transform: uppercase;
+}
